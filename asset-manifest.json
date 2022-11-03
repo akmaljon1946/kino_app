@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kino_app/static/css/main.81027596.chunk.css",
+    "main.js": "/kino_app/static/js/main.d13871af.chunk.js",
+    "main.js.map": "/kino_app/static/js/main.d13871af.chunk.js.map",
+    "runtime-main.js": "/kino_app/static/js/runtime-main.17e0dac5.js",
+    "runtime-main.js.map": "/kino_app/static/js/runtime-main.17e0dac5.js.map",
+    "static/js/2.cc2bb2ef.chunk.js": "/kino_app/static/js/2.cc2bb2ef.chunk.js",
+    "static/js/2.cc2bb2ef.chunk.js.map": "/kino_app/static/js/2.cc2bb2ef.chunk.js.map",
+    "index.html": "/kino_app/index.html",
+    "static/css/main.81027596.chunk.css.map": "/kino_app/static/css/main.81027596.chunk.css.map",
+    "static/js/2.cc2bb2ef.chunk.js.LICENSE.txt": "/kino_app/static/js/2.cc2bb2ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17e0dac5.js",
+    "static/js/2.cc2bb2ef.chunk.js",
+    "static/css/main.81027596.chunk.css",
+    "static/js/main.d13871af.chunk.js"
+  ]
+}
